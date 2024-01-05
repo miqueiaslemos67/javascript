@@ -1,0 +1,14 @@
+@charset "UTF-08";
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color: #0c01a8;
+    font-size: 50px;
+}
+p{
+   color: rgb(62, 17, 189);
+}
+button{
+    color: rgb(34, 15, 116);
+}

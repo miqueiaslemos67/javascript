@@ -1,0 +1,13 @@
+@charset "UTF-08"; 
+body {
+    background-color: rgb(10, 115, 122);
+    font-size: 20px;    
+}
+button {
+   background-color: brown;
+   font-size: 24px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
