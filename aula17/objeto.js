@@ -3,7 +3,7 @@ nome: 'José',
 sexo: 'M',
 peso: 85.4,
 engordar(p=0){
-    console.log('Éngordou')
+    console.log('Engordou')
     this.peso += p
 }}
 
